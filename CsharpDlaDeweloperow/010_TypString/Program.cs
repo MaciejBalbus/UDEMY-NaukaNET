@@ -41,8 +41,5 @@ internal class Program
         //lub 
         string rezultat = strBuilder.ToString();
         Console.WriteLine(rezultat);
-
-
-
     }
 }
