@@ -1,6 +1,4 @@
-﻿using Microsoft.Win32.SafeHandles;
-using System;
-
+﻿
 internal class Program
 {
     private static void Main(string[] args)
