@@ -17,25 +17,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016_KonwersjaRzutowanie", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017_KalkulatorBMI", "017_KalkulatorBMI\017_KalkulatorBMI.csproj", "{38DB4531-989A-4C8B-85D3-FB3096DF0C5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Tablice", "018_Tablice\018_Tablice.csproj", "{993F814D-E312-4495-B200-33EA50DB3EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "018_Tablice", "018_Tablice\018_Tablice.csproj", "{993F814D-E312-4495-B200-33EA50DB3EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_PetlaWhile", "019_PetlaWhile\019_PetlaWhile.csproj", "{6CA376B8-5B5A-4C61-9B1E-9D22C364C027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019_PetlaWhile", "019_PetlaWhile\019_PetlaWhile.csproj", "{6CA376B8-5B5A-4C61-9B1E-9D22C364C027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_PetlaDo-While", "020_PetlaDo-While\020_PetlaDo-While.csproj", "{C18BD925-4509-4426-B35A-14A6F2C062ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "020_PetlaDo-While", "020_PetlaDo-While\020_PetlaDo-While.csproj", "{C18BD925-4509-4426-B35A-14A6F2C062ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_PetlaFor", "021_PetlaFor\021_PetlaFor.csproj", "{0863C804-7CE3-4DD3-A53E-6D85ED3DF3A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021_PetlaFor", "021_PetlaFor\021_PetlaFor.csproj", "{0863C804-7CE3-4DD3-A53E-6D85ED3DF3A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_PetlaForeach", "022_PetlaForeach\022_PetlaForeach.csproj", "{683E3D5B-75AE-48E5-81E3-3AB09F0B692D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "022_PetlaForeach", "022_PetlaForeach\022_PetlaForeach.csproj", "{683E3D5B-75AE-48E5-81E3-3AB09F0B692D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_ZadIterowaniePoDanych", "024_ZadIterowaniePoDanych\024_ZadIterowaniePoDanych.csproj", "{B90655E0-93B9-4EC3-B66B-17104ADB9BF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024_ZadIterowaniePoDanych", "024_ZadIterowaniePoDanych\024_ZadIterowaniePoDanych.csproj", "{B90655E0-93B9-4EC3-B66B-17104ADB9BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025_ENUM", "025_ENUM\025_ENUM.csproj", "{89CA9FD8-0F98-4F30-B49C-B871ABB10C6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "025_ENUM", "025_ENUM\025_ENUM.csproj", "{89CA9FD8-0F98-4F30-B49C-B871ABB10C6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026_Nullable", "026_Nullable\026_Nullable.csproj", "{4473A894-495A-45E9-BFE9-3FF5C8C1FFF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026_Nullable", "026_Nullable\026_Nullable.csproj", "{4473A894-495A-45E9-BFE9-3FF5C8C1FFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027_TryCatchFinally", "027_TryCatchFinally\027_TryCatchFinally.csproj", "{806C0215-D05D-412C-8108-86324445C23E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027_TryCatchFinally", "027_TryCatchFinally\027_TryCatchFinally.csproj", "{806C0215-D05D-412C-8108-86324445C23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030_ZadParsowanieDaty", "030_ZadParsowanieDaty\030_ZadParsowanieDaty.csproj", "{1150AE9C-E0EC-4774-820F-991D6850C24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "030_ZadParsowanieDaty", "030_ZadParsowanieDaty\030_ZadParsowanieDaty.csproj", "{1150AE9C-E0EC-4774-820F-991D6850C24D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "031_KlasyWprowadzenie", "031_KlasyWprowadzenie\031_KlasyWprowadzenie.csproj", "{8A7A31FF-9897-4334-B9C4-7EE6A6652BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037_ModyfikatoryDostepu", "037_ModyfikatoryDostepu\037_ModyfikatoryDostepu.csproj", "{C2E058B5-E472-423F-BFB6-53B24F4F8590}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{1150AE9C-E0EC-4774-820F-991D6850C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1150AE9C-E0EC-4774-820F-991D6850C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1150AE9C-E0EC-4774-820F-991D6850C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7A31FF-9897-4334-B9C4-7EE6A6652BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7A31FF-9897-4334-B9C4-7EE6A6652BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7A31FF-9897-4334-B9C4-7EE6A6652BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7A31FF-9897-4334-B9C4-7EE6A6652BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E058B5-E472-423F-BFB6-53B24F4F8590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E058B5-E472-423F-BFB6-53B24F4F8590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E058B5-E472-423F-BFB6-53B24F4F8590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E058B5-E472-423F-BFB6-53B24F4F8590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
