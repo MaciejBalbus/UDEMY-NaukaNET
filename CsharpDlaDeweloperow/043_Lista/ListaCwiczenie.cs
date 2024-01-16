@@ -25,8 +25,4 @@ namespace Lista
             return tasks;
         }
     }
-
-
-
-
 }

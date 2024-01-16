@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace KlasyWprowadzenie
 {
-    class Osoba
+    public class Osoba
     {
         public string Imie;
         public string Nazwisko;
