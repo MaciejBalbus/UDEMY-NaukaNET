@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         string? wybranaOpcja;
-        Kontakt kontakt = new Kontakt();
+        SpisTelefonow spisKontaktow = new SpisTelefonow();
 
         do
         {
@@ -23,17 +23,23 @@ internal class Program
             switch (wybranaOpcja)
             {
                 case "1":
-                    Console.WriteLine("Wklepano 1");
-                    kontakt.pobierzKontakt();
+                     Kontakt? kontakt = new Kontakt();
+                    kontakt.PobierzKontakt();
+                    spisKontaktow.Dodaj(kontakt);
+                    kontakt = null;
                     break;
                 case "2":
-                    Console.WriteLine("Wklepano 2");
+                    Console.WriteLine("Podaj wyszukiwany numer");
+                    var numer = Console.ReadLine();
+                    spisKontaktow.WypiszKontaktyPoNumerze(numer);
                     break;
                 case "3":
-                    Console.WriteLine("Wklepano 3");
+                    spisKontaktow.WypiszKontakty();
                     break;
                 case "4":
-                    Console.WriteLine("Wklepano 4");
+                    Console.WriteLine("Podaj szukana fraze");
+                    var fraza = Console.ReadLine();
+                    spisKontaktow.WypiszKontaktyPoFrazie(fraza);
                     break;
             }
 

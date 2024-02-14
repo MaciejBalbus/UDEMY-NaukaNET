@@ -17,12 +17,18 @@ namespace _050_AppKsizTelefon
             this.Nazwa = nazwa;
             this.Numer = numer;
         }
-        public void pobierzKontakt()
+        public void PobierzKontakt()
         {
             Console.WriteLine("Podaj nazwe Kontaktu");
             this.Nazwa= Console.ReadLine();
             Console.WriteLine("Podaj numer Kontaktu");
             this.Numer = Console.ReadLine();
         }
+
+        public override string ToString()
+        {
+            return $"Nazwa kontatkru: {this.Nazwa} nr telefonu: {this.Numer}";
+        }
     }
+    
 }
