@@ -67,7 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "054_PorWartRef", "054_PorWa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "055_ConstReadOnly", "055_ConstReadOnly\055_ConstReadOnly.csproj", "{B2BA8A98-778C-44B1-8C4E-A76C3F5E9736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056_Kata", "056_Kata\056_Kata.csproj", "{417595C7-369B-49BE-8B93-8AB9D9F522E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "056_Kata", "056_Kata\056_Kata.csproj", "{417595C7-369B-49BE-8B93-8AB9D9F522E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "057_Potus", "057_Potus\057_Potus.csproj", "{766937FF-8CF8-4D11-8D7E-8F977985EBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058_ReadFiles", "058_ReadFiles\058_ReadFiles.csproj", "{17877FCC-732E-4482-B230-79958AF4AD78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{417595C7-369B-49BE-8B93-8AB9D9F522E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417595C7-369B-49BE-8B93-8AB9D9F522E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417595C7-369B-49BE-8B93-8AB9D9F522E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766937FF-8CF8-4D11-8D7E-8F977985EBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766937FF-8CF8-4D11-8D7E-8F977985EBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766937FF-8CF8-4D11-8D7E-8F977985EBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766937FF-8CF8-4D11-8D7E-8F977985EBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17877FCC-732E-4482-B230-79958AF4AD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17877FCC-732E-4482-B230-79958AF4AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17877FCC-732E-4482-B230-79958AF4AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17877FCC-732E-4482-B230-79958AF4AD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
