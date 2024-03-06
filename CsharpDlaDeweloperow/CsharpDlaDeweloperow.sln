@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "056_Kata", "056_Kata\056_Ka
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "057_Potus", "057_Potus\057_Potus.csproj", "{766937FF-8CF8-4D11-8D7E-8F977985EBC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058_ReadFiles", "058_ReadFiles\058_ReadFiles.csproj", "{17877FCC-732E-4482-B230-79958AF4AD78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "058_ReadFiles", "058_ReadFiles\058_ReadFiles.csproj", "{17877FCC-732E-4482-B230-79958AF4AD78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059_JSON", "059_JSON\059_JSON.csproj", "{5DB81FB9-0D0D-49B0-8C35-E02EA0968128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{17877FCC-732E-4482-B230-79958AF4AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17877FCC-732E-4482-B230-79958AF4AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17877FCC-732E-4482-B230-79958AF4AD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB81FB9-0D0D-49B0-8C35-E02EA0968128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB81FB9-0D0D-49B0-8C35-E02EA0968128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB81FB9-0D0D-49B0-8C35-E02EA0968128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB81FB9-0D0D-49B0-8C35-E02EA0968128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
